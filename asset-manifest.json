@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Excel-CSV/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/React-Excel-CSV/static/js/main.51e4bc06.chunk.js",
+    "main.js.map": "/React-Excel-CSV/static/js/main.51e4bc06.chunk.js.map",
+    "runtime-main.js": "/React-Excel-CSV/static/js/runtime-main.94a9e989.js",
+    "runtime-main.js.map": "/React-Excel-CSV/static/js/runtime-main.94a9e989.js.map",
+    "static/js/2.4aff6f0e.chunk.js": "/React-Excel-CSV/static/js/2.4aff6f0e.chunk.js",
+    "static/js/2.4aff6f0e.chunk.js.map": "/React-Excel-CSV/static/js/2.4aff6f0e.chunk.js.map",
+    "index.html": "/React-Excel-CSV/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/React-Excel-CSV/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4aff6f0e.chunk.js.LICENSE.txt": "/React-Excel-CSV/static/js/2.4aff6f0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94a9e989.js",
+    "static/js/2.4aff6f0e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.51e4bc06.chunk.js"
+  ]
+}
